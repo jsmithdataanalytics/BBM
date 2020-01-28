@@ -1,2 +1,2 @@
 # Bought By Many Interview Exercise
-My work on the the Bought By Many interview exercise ([notebook](solution.ipynb))
+[My work](solution.ipynb) on the the Bought By Many interview [exercise.](task.pdf)
